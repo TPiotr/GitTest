@@ -6,4 +6,7 @@ public class MainClass {
 		System.out.println("Change1");
 	}
 	
+	public void ChangeForIssue1() {
+		System.out.println("Issue1");
+	}
 }
