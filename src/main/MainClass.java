@@ -9,4 +9,8 @@ public class MainClass {
 	public void ChangeForIssue1() {
 		System.out.println("Issue1");
 	}
+	
+	public void FixForIssue1() {
+		System.out.println("Issue1 fixed");
+	}
 }
