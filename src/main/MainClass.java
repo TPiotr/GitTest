@@ -13,6 +13,10 @@ public class MainClass {
 	public void FixForIssue1() {
 		System.out.println("Issue1 fixed");
 	}
-	
+
+
 	public void SomeRandomChangeAfterI2Created() {}
+
+	public void ChangeForI2() {}
+	
 }
